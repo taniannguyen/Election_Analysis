@@ -78,7 +78,7 @@ for candidate_name in candidate_votes:
   
 ```
 
--	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - The winner of the election was Diana DeGette, with a total of 272,892 votes which is a 73.8% of the total votes.
      These variables were set towards the beginning of the code:
 ```
