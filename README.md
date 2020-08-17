@@ -11,6 +11,10 @@ The purpose of this analysis is to assist Tom in the Colorado board election by 
 	
 # Election-Audit Results
 
+The final results of the election:
+
+[Election Results](analysis/election_results.txt)
+
 - How many votes were cast in this congressional election?
   - There were 369,711 votes in this congressional election. The code used to get this result:
   
