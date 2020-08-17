@@ -9,7 +9,7 @@ The purpose of this analysis is to assist Tom in the Colorado board election by 
 
 
 	
-# Election-Audit Results
+## Election-Audit Results
 
 The final results of the election:
 
@@ -97,7 +97,7 @@ if (votes > winning_count) and (vote_percentage > winning_percentage):
 	winning_candidate = candidate_name
 	winning_percentage = vote_percentage
 ```
-# Election-Audit Summary
+## Election-Audit Summary
 
 The first proposal is to modify the script to exhibit the runner ups in the final results; having first, second and third. The second proposal is to modify the script to add a representation of who within the county was voted for, the total votes per candidate within each county.
 
